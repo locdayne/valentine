@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'My tiny luv (expectation 🥰)',
-    introDesc: `I've prepared a special gift for you, a token of my affection and a promise of the unwavering support. Currently, I know we just a friend, but i wanna make something for my lover, who sympathize my struggle and willing to accepct my weakness. Until then, let this gift serve as a symbol of my hopeful anticipation.`,
+    introDesc: `I've prepared a special gift for you, a token of my affection and a promise of the unwavering support. Currently, I know we are just friends, but I wanna make something for my lover, who sympathizes with my struggle and is willing to accept my weakness. Until then, let this gift serve as a symbol of my hopeful anticipation.`,
     btnIntro: 'hehehe',
     title: 'Welcome to my companyyyy, inspired from amiuoi cooperation ',
     desc: 'Thay em cuteee khumm',
